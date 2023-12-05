@@ -30,6 +30,7 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ```{r}
 x=5
 y=10
+x+y
 ```
 
 
