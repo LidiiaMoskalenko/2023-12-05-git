@@ -1,5 +1,5 @@
 ---
-title: "2023-12-05"
+title: "2023-12-05-git"
 output: html_document
 date: "2023-12-05"
 ---
@@ -27,13 +27,4 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-```{r}
-x=10
-y=15
-x+y
-
 $ git add a.csv
-```
-
-
-
